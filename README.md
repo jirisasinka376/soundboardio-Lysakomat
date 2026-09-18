@@ -1,3 +1,3 @@
 # soundboardio-Lysakomat
 
-https://soundboardio.com/app/jirisasinka376/lysakomat]
+https://soundboardio.com/app/jirisasinka376/lysakomat
