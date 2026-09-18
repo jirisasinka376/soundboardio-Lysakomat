@@ -1,6 +1,6 @@
 {
   "name": "Lysákomat",
-  "shortName": " ",
+  "shortName": "Lysákomat",
   "description": " ",
   "color": "#fb2bda",
   "rootUrl": "sounds/",
@@ -8,11 +8,11 @@
     "name": "chlapec",
     "url": "https://github.com/jirisasinka376"
   },
-  "lang": "en",
+  "lang": "cs",
   "version": "1.0.0",
   "icons": [
     {
-      "src": "/icons/icon-192x192.png",
+      "src": "icons/OG.png",
       "sizes": "192x192",
       "purpose": "192x192",
       "type": "image/png"
