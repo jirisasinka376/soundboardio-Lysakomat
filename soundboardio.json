@@ -1,0 +1,136 @@
+{
+  "name": "Lysákomat",
+  "shortName": " ",
+  "description": " ",
+  "color": "#fb2bda",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "chlapec",
+    "url": "https://github.com/jirisasinka376"
+  },
+  "lang": "en",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "purpose": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "AMohlBysteMeToPrivezt",
+      "filename": "AMohlBysteMeToPrivezt.mp3"
+    },
+    {
+      "name": "ANesloByToZlomitNaPatnact",
+      "filename": "ANesloByToZlomitNaPatnact.mp3"
+    },
+    {
+      "name": "AToTamNemasNapsane",
+      "filename": "AToTamNemasNapsane.mp3"
+    },
+    {
+      "name": "AVyMnaUUuuVyMnaUrozomnite",
+      "filename": "AVyMnaUUuuVyMnaUrozomnite.mp3"
+    },
+    {
+      "name": "CO",
+      "filename": "CO.mp3"
+    },
+    {
+      "name": "CO(1)",
+      "filename": "CO(1).mp3"
+    },
+    {
+      "name": "Cooo",
+      "filename": "Cooo.mp3"
+    },
+    {
+      "name": "Cuseek",
+      "filename": "Cuseek.mp3"
+    },
+    {
+      "name": "DobryDen",
+      "filename": "DobryDen.mp3"
+    },
+    {
+      "name": "Formula2",
+      "filename": "Formula2.mp3"
+    },
+    {
+      "name": "HejNeAleAtToKamilNevidi",
+      "filename": "HejNeAleAtToKamilNevidi.mp3"
+    },
+    {
+      "name": "JeSpatna",
+      "filename": "JeSpatna.mp3"
+    },
+    {
+      "name": "Kolik",
+      "filename": "Kolik.mp3"
+    },
+    {
+      "name": "NalejMeStamprlu",
+      "filename": "NalejMeStamprlu.mp3"
+    },
+    {
+      "name": "NeboToJakoFungujeNeboJakToMozuPoprosit",
+      "filename": "NeboToJakoFungujeNeboJakToMozuPoprosit.mp3"
+    },
+    {
+      "name": "NefungujeToJoo",
+      "filename": "NefungujeToJoo.mp3"
+    },
+    {
+      "name": "NefungujeToJooo",
+      "filename": "NefungujeToJooo.mp3"
+    },
+    {
+      "name": "NerozumjaJaSuCechJaSlovak",
+      "filename": "NerozumjaJaSuCechJaSlovak.mp3"
+    },
+    {
+      "name": "NiDvojpipa",
+      "filename": "NiDvojpipa.mp3"
+    },
+    {
+      "name": "TadyMamePipeckuPivecko",
+      "filename": "TadyMamePipeckuPivecko.mp3"
+    },
+    {
+      "name": "TakJsemTiDobreUtekl",
+      "filename": "TakJsemTiDobreUtekl.mp3"
+    },
+    {
+      "name": "ToAsiNemasSancuZe",
+      "filename": "ToAsiNemasSancuZe.mp3"
+    },
+    {
+      "name": "TotoJedeKurevskyDobre",
+      "filename": "TotoJedeKurevskyDobre.mp3"
+    },
+    {
+      "name": "TySiMekous",
+      "filename": "TySiMekous.mp3"
+    },
+    {
+      "name": "VySteUkrajina",
+      "filename": "VySteUkrajina.mp3"
+    },
+    {
+      "name": "ZeCo",
+      "filename": "ZeCo.mp3"
+    },
+    {
+      "name": "ZeJakEsteRaz",
+      "filename": "ZeJakEsteRaz.mp3"
+    }
+  ]
+}
