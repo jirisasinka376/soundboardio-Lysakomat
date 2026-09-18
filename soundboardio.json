@@ -1,6 +1,6 @@
 {
   "name": "Lysákomat",
-  "shortName": "Lysákomat",
+  "shortName": "Lysakomat",
   "description": " ",
   "color": "#fb2bda",
   "rootUrl": "sounds/",
@@ -18,26 +18,26 @@
       "type": "image/png"
     },
     {
-      "src": "/icons/icon-512x512.png",
+      "src": "icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
   "tiles": [
     {
-      "name": "AMohlBysteMeToPrivezt",
+      "name": "A mohl byste mě to přivézt",
       "filename": "AMohlBysteMeToPrivezt.mp3"
     },
     {
-      "name": "ANesloByToZlomitNaPatnact",
+      "name": "A nešlo by to zlomit na patnáct",
       "filename": "ANesloByToZlomitNaPatnact.mp3"
     },
     {
-      "name": "AToTamNemasNapsane",
+      "name": "A to tam nemáš napsané",
       "filename": "AToTamNemasNapsane.mp3"
     },
     {
-      "name": "AVyMnaUUuuVyMnaUrozomnite",
+      "name": "A vy mňa úú vy mňa urozomníte",
       "filename": "AVyMnaUUuuVyMnaUrozomnite.mp3"
     },
     {
@@ -45,7 +45,7 @@
       "filename": "CO.mp3"
     },
     {
-      "name": "CO(1)",
+      "name": "CO (2)",
       "filename": "CO(1).mp3"
     },
     {
@@ -53,23 +53,23 @@
       "filename": "Cooo.mp3"
     },
     {
-      "name": "Cuseek",
+      "name": "Čuséék",
       "filename": "Cuseek.mp3"
     },
     {
-      "name": "DobryDen",
+      "name": "Dobrý den",
       "filename": "DobryDen.mp3"
     },
     {
-      "name": "Formula2",
+      "name": "Formule 2",
       "filename": "Formula2.mp3"
     },
     {
-      "name": "HejNeAleAtToKamilNevidi",
+      "name": "Hej ne ale ať to Kamil nevidí",
       "filename": "HejNeAleAtToKamilNevidi.mp3"
     },
     {
-      "name": "JeSpatna",
+      "name": "Je špatná",
       "filename": "JeSpatna.mp3"
     },
     {
@@ -77,59 +77,59 @@
       "filename": "Kolik.mp3"
     },
     {
-      "name": "NalejMeStamprlu",
+      "name": "Nalej mě štamprlu",
       "filename": "NalejMeStamprlu.mp3"
     },
     {
-      "name": "NeboToJakoFungujeNeboJakToMozuPoprosit",
+      "name": "Nebo to jako funguje nebo jak to možu poprosit",
       "filename": "NeboToJakoFungujeNeboJakToMozuPoprosit.mp3"
     },
     {
-      "name": "NefungujeToJoo",
+      "name": "Nefunguje to jó",
       "filename": "NefungujeToJoo.mp3"
     },
     {
-      "name": "NefungujeToJooo",
+      "name": "Nefunguje to jóó",
       "filename": "NefungujeToJooo.mp3"
     },
     {
-      "name": "NerozumjaJaSuCechJaSlovak",
+      "name": "Nerozumja ja su Čech ja Slovák",
       "filename": "NerozumjaJaSuCechJaSlovak.mp3"
     },
     {
-      "name": "NiDvojpipa",
+      "name": "Ni dvojpípa",
       "filename": "NiDvojpipa.mp3"
     },
     {
-      "name": "TadyMamePipeckuPivecko",
+      "name": "Tady máme pípečku pívečko",
       "filename": "TadyMamePipeckuPivecko.mp3"
     },
     {
-      "name": "TakJsemTiDobreUtekl",
+      "name": "Tak jsem ti dobře utekl",
       "filename": "TakJsemTiDobreUtekl.mp3"
     },
     {
-      "name": "ToAsiNemasSancuZe",
+      "name": "To asi nemáš šancu že",
       "filename": "ToAsiNemasSancuZe.mp3"
     },
     {
-      "name": "TotoJedeKurevskyDobre",
+      "name": "Toto jede kurevsky dobře",
       "filename": "TotoJedeKurevskyDobre.mp3"
     },
     {
-      "name": "TySiMekous",
+      "name": "Ty si měkkouš",
       "filename": "TySiMekous.mp3"
     },
     {
-      "name": "VySteUkrajina",
+      "name": "Vy ste Ukrajina",
       "filename": "VySteUkrajina.mp3"
     },
     {
-      "name": "ZeCo",
+      "name": "Že co",
       "filename": "ZeCo.mp3"
     },
     {
-      "name": "ZeJakEsteRaz",
+      "name": "Že jak ještě raz",
       "filename": "ZeJakEsteRaz.mp3"
     }
   ]
